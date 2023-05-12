@@ -30,7 +30,7 @@ public abstract class Animal {
 	}
 	
 	public void jump() {
-		//dieren springen
+		//dieren
 	}
 	
 	
