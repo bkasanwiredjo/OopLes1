@@ -29,7 +29,9 @@ public abstract class Animal {
 		this.legs = legs;
 	}
 	
-	
+	public void jump() {
+		//dieren springen
+	}
 	
 	
 	
